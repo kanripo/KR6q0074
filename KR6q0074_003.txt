@@ -1,27 +1,22 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:45:17.742196
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:58
 #+TITLE: 明覺禪師語錄
 #+PROPERTY: CBETA_ID T47n1996
 #+PROPERTY: ID KR6q0074
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 47, No. 1996
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6q0074_T_000-0669a>¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6q0074_T_003-0685b> 
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 明覺禪師語錄卷第三¶
+明覺禪師語錄卷第三¶
 ¶
 參學小師允誠等編¶
 
-拈古
-:PROPERTIES:
-:head: 拈古
-:END:
-¶
+* 拈古¶
 
 師舉。德山示眾云。今夜不答話。問話者三十¶
 棒。時有僧出禮拜。山便打。僧云。某甲話也未¶
